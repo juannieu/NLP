@@ -34,8 +34,11 @@ Next word prediction using LSTM networks. Vocabulary is constructed from 100 ran
 
 ## 5. Sentiment Classification:
 
-S
-entiment classification of clothing reviews using embeddings and LSTM Networks.
+Sentiment classification of clothing reviews using embeddings and LSTM Networks.
 
+
+## 6. Q & A Chatbot:
+
+Q
 
 Please do feel free to contact me: juanpablonietou@gmail.com
