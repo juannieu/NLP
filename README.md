@@ -3,12 +3,12 @@
 This repo contains all my Natural Language Processing projects, developed for my specialisation programme at Universidad de Buenos Aires Univeristy. Among these projects, you will find:
 
 
-##TP1
+## TP1
 
 
 TP1 description
 
-##TP2
+## TP2
 
 
 
