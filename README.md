@@ -37,8 +37,11 @@ Next word prediction using LSTM networks. Vocabulary is constructed from 100 ran
 Sentiment classification of clothing reviews using embeddings and LSTM Networks.
 
 
-## [6. Q & A Chatbot:](TP6_Juan_Pablo_Nieto_Uribe.ipynb
+## [6. Q & A Chatbot:](TP6_Juan_Pablo_Nieto_Uribe.ipynb)
 
 Q&A Chatbot trained using an LSTM Network
 
 Please do feel free to contact me: juanpablonietou@gmail.com
+
+Kindly,
+Juan Pablo
