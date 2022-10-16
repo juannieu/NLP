@@ -39,6 +39,6 @@ Sentiment classification of clothing reviews using embeddings and LSTM Networks.
 
 ## 6. Q & A Chatbot:
 
-Q
+Q&A Chatbot trained using an LSTM Network
 
 Please do feel free to contact me: juanpablonietou@gmail.com
