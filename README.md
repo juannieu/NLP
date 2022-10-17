@@ -26,7 +26,7 @@ TP2 Description
 Creation of custom embeddings using Gensim. In this case, using aviation-related vocabulary as obtained from Wikipedia.
 
 
-## [4. Next Word Prediction:](TP4_NLP_Juan_Pablo_Nieto_Uribe.ipynb)
+## [4. Next Word Prediction:](TP4_NLP_Corregido_Juan_Pablo_Nieto_Uribe.ipynb)
 
 Next word prediction using LSTM networks. Vocabulary is constructed from 100 randomly picked Wikipedia articles.
 
