@@ -43,5 +43,7 @@ Q&A Chatbot trained using an LSTM Network
 
 Please do feel free to contact me: juanpablonietou@gmail.com
 
+## Contact
+
 Kindly,
 Juan Pablo
