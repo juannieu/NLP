@@ -18,7 +18,7 @@ This simple bot is designed to find and retrieve similar phrases to those found
 within a user-defined set of pdf documents using TF-IDF and cosine similarity
 TP2 Description
 
-## [3. Gensim Custom Embeddings:](TP3_NLP_Juan_Pablo_Nieto_Uribe.ipynb)
+## [3. Gensim Custom Embeddings:](TP3_NLP_Correcciones_Juan_Pablo_Nieto_Uribe.ipynb)
 
 
 
